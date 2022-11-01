@@ -1,0 +1,3 @@
+[submodule "mern-room-booking-app"]
+	path = mern-room-booking-app
+	url = https://github.com/yogi-wish/mern-room-booking-app.git
